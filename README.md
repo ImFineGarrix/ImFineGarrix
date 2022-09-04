@@ -30,9 +30,9 @@
 ## 📊 Github Stats
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=imfinegarrix&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="imfinegarrix" />
 &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=imfinegarrix&show_icons=true&locale=en&theme=github_dark" alt="imfinegarrix" /></p>
-
-<h1 align="center">Contact Me</h1>
+<br><br>
+<h5 align="center">Contact Me</h5>
 <div align="center">
-  <a href="https://www.facebook.com/chanon.rugkee/" target="_blank"><img src="https://www.svgrepo.com/show/138943/facebook.svg" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/__iimp_/" target="_blank"><img src="https://www.svgrepo.com/show/217758/instagram.svg" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/chanon.rugkee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chanon rugdee" height="20" width="30" /></a>
+  <a href="https://www.instagram.com/__iimp_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__iimp_" height="20" width="30" /></a>
 </div>
