@@ -13,11 +13,10 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td>
     <td><img src="https://www.svgrepo.com/show/373623/git.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/331370/docker.svg" height="40" width="40" /></td>
-    <td><img src="" height="40" width="40" /></td>
+    <td><img src="https://www.svgrepo.com/show/353733/figma.svg" height="40" width="40" /></td>
   </tr>
 </table>
 
 ## 📊 Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imfinegarrix&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="imfinegarrix" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imfinegarrix&show_icons=true&locale=en&theme=github_dark" alt="imfinegarrix" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=imfinegarrix&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="imfinegarrix" />
+&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=imfinegarrix&show_icons=true&locale=en&theme=github_dark" alt="imfinegarrix" /></p>
