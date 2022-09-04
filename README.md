@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Chanon Rugdee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <ul>
-  <li>💻 I'm Front-End Developer</li>
+  <li>💻 I'm front-end developer</li>
+  <li>🎓 I studying 3rd year in SIT KMUTT</li>
   <li>📮 How to reach me - ![chanon.55526@mail.kmutt.ac.th]</li>
 </ul>
 
