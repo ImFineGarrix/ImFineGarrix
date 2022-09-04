@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Chanon Rugdee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h4 align="center">I'm passionate in UX/UI and front-end</h3>
 
 ## 💁🏻‍♂️ About Me
 ⋅ 💻 I'm front-end developer
