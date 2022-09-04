@@ -30,3 +30,9 @@
 ## 📊 Github Stats
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=imfinegarrix&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="imfinegarrix" />
 &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=imfinegarrix&show_icons=true&locale=en&theme=github_dark" alt="imfinegarrix" /></p>
+
+<h1 align="center">Contact Me</h1>
+<div align="center">
+  <a href="https://www.facebook.com/chanon.rugkee/" target="_blank"><img src="https://www.svgrepo.com/show/138943/facebook.svg" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/__iimp_/" target="_blank"><img src="https://www.svgrepo.com/show/217758/instagram.svg" height="40" width="40" /></a>
+</div>
