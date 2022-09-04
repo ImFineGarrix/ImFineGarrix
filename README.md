@@ -24,6 +24,7 @@
     <td><img src="https://www.svgrepo.com/show/373623/git.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/331370/docker.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/353733/figma.svg" height="40" width="40" /></td>
+    <td><img src="https://www.svgrepo.com/show/373968/photoshop.svg" height="40" width="40" /></td>
   </tr>
 </table>
 
