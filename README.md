@@ -2,7 +2,9 @@
 
 ## 💁🏻‍♂️ About me
 ⋅ 💻 I'm front-end developer
+<br>
 ⋅ 🎓 I studying 3rd year in SIT KMUTT
+<br>
 ⋅ 📮 How to reach me - [chanon.55526@mail.kmutt.ac.th](chanon.55526@mail.kmutt.ac.th)
 
 
