@@ -4,7 +4,7 @@
 <ul>
   <li>💻 I'm front-end developer</li>
   <li>🎓 I studying 3rd year in SIT KMUTT</li>
-  <li>📮 How to reach me - ![chanon.55526@mail.kmutt.ac.th]</li>
+  <li>📮 How to reach me - [chanon.55526@mail.kmutt.ac.th](chanon.55526@mail.kmutt.ac.th)</li>
 </ul>
 
 ## 🧑🏻‍💻 My Skills
