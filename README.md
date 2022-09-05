@@ -2,7 +2,7 @@
 <h4 align="center">" I'm passionate in UX/UI and front-end "</h3>
 
 ## 💁🏻‍♂️ About Me
-⋅ 💻 I'm front-end developer
+⋅🌱 I currently learning to be a front-end developer
 <br>
 ⋅ 🎓 I studying 3rd year in SIT KMUTT
 <br>
