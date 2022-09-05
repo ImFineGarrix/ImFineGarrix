@@ -2,9 +2,9 @@
 <h4 align="center">" I'm passionate in UX/UI and front-end "</h3>
 
 ## 💁🏻‍♂️ About Me
-⋅🌱 I currently learning to be a front-end developer
+⋅🌱 I'm currently learning to be a front-end developer
 <br>
-⋅ 🎓 I studying 3rd year in SIT KMUTT
+⋅ 🎓 I'm studying 3rd year in SIT KMUTT
 <br>
 ⋅ 📮 How to reach me - chanon.55526@mail.kmutt.ac.th
 
