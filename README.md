@@ -14,6 +14,7 @@
   <tr>
     <td><img src="https://www.svgrepo.com/show/373669/html.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/373535/css.svg" height="40" width="40" /></td>
+    <td><img src="https://www.svgrepo.com/svg/354478/typescript-icon.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/355081/js.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/373940/nuxt.svg" height="40" width="40" /></td>
