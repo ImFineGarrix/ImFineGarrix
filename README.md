@@ -4,9 +4,9 @@
 ## 💁🏻‍♂️ About Me
 ⋅🌱 I'm currently learning to be a front-end developer
 <br>
-⋅ 🎓 I'm studying 3rd year in SIT KMUTT
+⋅ 🎓 I'm studying 4th year in SIT KMUTT
 <br>
-⋅ 📮 How to reach me - chanon.55526@mail.kmutt.ac.th
+⋅ 📮 How to reach me - p.chanonrugdee@gmail.com
 
 
 ## 🧑🏻‍💻 My Skills
