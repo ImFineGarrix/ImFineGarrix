@@ -21,8 +21,7 @@
     <td><img src="https://www.svgrepo.com/show/373872/nestjs.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="40" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td>
-    <td><img src="https://www.svgrepo.com/show/373623/git.svg" height="40" width="40" /></td>
+    <td><img src="https://www.svgrepo.com/show/439231/mongodb.svg" alt="oracle" width="40" height="40"/></td>
     <td><img src="https://www.svgrepo.com/show/353733/figma.svg" height="40" width="40" /></td>
   </tr>
 </table>
