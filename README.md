@@ -16,7 +16,7 @@
     <td><img src="https://www.svgrepo.com/show/373535/css.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/355081/js.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" height="40" width="40" /></td>
-    <td><img src="https://www.svgrepo.com/show/303494/nuxt-logo.svg" height="40" width="40" /></td>
+    <td><img src="https://www.svgrepo.com/show/373940/nuxt.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/349418/nest-js.svg" height="40" width="40" /></td>
     <td><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="40" /></td>
